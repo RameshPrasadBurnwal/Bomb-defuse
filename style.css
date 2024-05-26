@@ -1,0 +1,37 @@
+/*------------style sheet for html document--------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+
+.timer-container{
+    text-align:center;
+    height:100vh;
+    background-color:#00bafc;
+    padding:20px;
+}
+
+
+
+.user-input{
+    border-style:solid;
+    border-width:2px;
+    border-color:blue;
+    background-color:aqua;
+    border-radius:25px;
+    margin-bottom:20px;
+    padding:25px;
+    height:60px;
+    width:200px;
+}
+
+
+
+.paragraph{
+    color:aquamarine;
+    font-size:100px;
+    font-weight:bolder;
+}
+
+.bomb-image{
+    height:250px;
+    width:250px;
+}
